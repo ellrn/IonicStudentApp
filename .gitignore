@@ -68,3 +68,12 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Visual Studio-specific files
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
